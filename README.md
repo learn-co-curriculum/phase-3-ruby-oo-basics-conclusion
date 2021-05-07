@@ -18,7 +18,7 @@ Below are links to some video reviews that provide overviews of topics in object
 
 ## Video Reviews
 
-* [Video: Object Orintation Overview](https://www.youtube.com/embed/Z_IoQCVNWtM?rel=0&showinfo=0)
+* [Video: Object Orientation Overview](https://www.youtube.com/embed/Z_IoQCVNWtM?rel=0&showinfo=0)
 
 * [Video Review- Intro to OO](https://www.youtube.com/watch?v=UysgBTrJoTc)
 
