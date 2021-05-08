@@ -1,4 +1,4 @@
-# Intro to Object Orientation Conclusion
+# Object Orientation Basics Conclusion
 
 Now we should have a basic grasp on object-oriented programming. As discussed in
 this module, we should have an understanding of the concept of "objects" that
